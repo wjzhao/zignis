@@ -26,6 +26,6 @@
 
 - Eclipse Public License - v 2.0
 
-Copyright © 2018 See
+Copyright © 2019 zignis
 
 
